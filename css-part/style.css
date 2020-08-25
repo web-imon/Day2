@@ -1,0 +1,31 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+p
+{
+	color: #fff;
+	background-color: salmon;
+}
+
+.demo
+{
+	color: #fff;
+	background-color: teal;
+	font-size: 30px;
+}
+
+.site
+{
+	color: #000;
+	background-color: #fff;
+}
+
+a
+{
+	color: tomato;
+	text-decoration: none;
+}
